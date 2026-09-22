@@ -1,199 +1,40 @@
-# CodeCraft by Varshitha 🚀
+# CodeCraft by Varshitha
 
-### Freelance Web Developer | Cloud & DevOps Learner
+Premium personal portfolio for Varshitha Avuthu — Freelance Web Developer → Cloud & DevOps Learner → Future Cloud Engineer.
 
-> **I Build Websites. I Deploy Ideas. I'm Building in the Cloud.**
+## Stack
 
-Welcome to the official GitHub repository for **CodeCraft by Varshitha** — my freelance web development portfolio.
+- React
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Lucide React
+- Vite
 
-I’m an MCA graduate and freelance web developer focused on creating clean, responsive, modern, and user-friendly websites for businesses, professionals, and personal brands.
+## Run locally
 
-Alongside web development, I’m building my skills in **Cloud Computing and DevOps** through hands-on projects, deployment, automation, and continuous learning.
-
----
-
-## 🌐 Live Portfolio
-
-🔗 **Portfolio:** Coming Soon
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/varshitha-avuthu/
-
-🔗 **GitHub:** https://github.com/VarshithaAvuthu
-
----
-
-## 💻 What I Do
-
-I help businesses and individuals build a stronger online presence through:
-
-* 🌐 Business Websites
-* 🎨 Landing Pages
-* 👩‍💼 Portfolio Websites
-* 📱 Responsive Web Design
-* ⚛️ React Websites
-* 🐛 Website Improvements & Bug Fixes
-* 🚀 Website Deployment
-* 🔧 Basic Website Maintenance
-
----
-
-## 🛠️ Technologies
-
-### Web Development
-
-* HTML5
-* CSS3
-* JavaScript
-* React
-* TypeScript
-* Tailwind CSS
-
-### Programming
-
-* Python
-
-### Cloud & DevOps
-
-* Cloud Computing
-* AWS
-* Linux
-* Git
-* GitHub
-* Deployment
-* Docker
-* CI/CD
-
-> **Note:** Cloud & DevOps technologies are currently part of my learning journey, with a focus on building practical projects and gaining hands-on experience.
-
----
-
-## 📂 Featured Projects
-
-### ☕ Bloom Café
-
-A modern, responsive business website created as a realistic freelance project for a café.
-
-**Focus:**
-
-* Responsive design
-* Modern UI
-* Interactive components
-* Mobile-friendly layout
-* Business-focused user experience
-
-**Tech Stack:**
-React • TypeScript • Tailwind CSS • Framer Motion
-
-🔗 Live Demo: Coming Soon
-
----
-
-### 🌐 CodeCraft by Varshitha
-
-My personal freelance web development portfolio showcasing my services, projects, technical skills, and Cloud & DevOps learning journey.
-
-**Tech Stack:**
-
-React • TypeScript • Tailwind CSS • Framer Motion
-
----
-
-## ☁️ My Cloud & DevOps Journey
-
-I’m currently transitioning from web development toward **Cloud & DevOps Engineering**.
-
-My learning path includes:
-
-```text
-Cloud Fundamentals
-        ↓
-Linux
-        ↓
-Networking
-        ↓
-AWS
-        ↓
-Git & GitHub
-        ↓
-Deployment
-        ↓
-Docker
-        ↓
-CI/CD
-        ↓
-DevOps
+```bash
+npm install
+npm run dev
 ```
 
-My approach is simple:
+## Production build
 
-**Learn → Build → Deploy → Document → Improve**
+```bash
+npm run build
+npm run preview
+```
 
----
+## Before launch
 
-## 🎯 Current Goals
+1. Replace placeholder project links with real GitHub/live URLs.
+2. Replace abstract project visuals with real screenshots when projects are ready.
+3. Connect the contact form to Formspree, Resend, EmailJS, or your own API.
+4. Replace the example `og:url` in `index.html` with the real deployed domain.
+5. Add a real Open Graph image at `public/og-image.png` and reference it in `index.html`.
+6. Add a favicon.
+7. Review the cloud-learning statuses as your skills progress.
 
-* Build real-world web development projects
-* Help businesses establish their online presence
-* Build a strong freelance portfolio
-* Learn AWS and cloud infrastructure
-* Develop Linux and networking fundamentals
-* Learn Docker and CI/CD
-* Build practical Cloud & DevOps projects
-* Transition toward a Cloud/DevOps Engineering career
+## Deployment
 
----
-
-## 📈 Learning in Public
-
-I believe the best way to learn technology is by building and sharing the process.
-
-I regularly document:
-
-* 💻 Projects
-* ☁️ Cloud learning
-* 🔧 Technical experiments
-* 🚀 Deployments
-* 📚 Lessons learned
-* 🛠️ Problems and solutions
-
----
-
-## 🤝 Freelance Services
-
-If you need a website for your:
-
-* Small business
-* Startup
-* Personal brand
-* Portfolio
-* Restaurant / Café
-* Coaching business
-* Professional service
-* Landing page
-
-Feel free to connect with me.
-
----
-
-## 📬 Let's Connect
-
-**LinkedIn:**
-https://www.linkedin.com/in/varshitha-avuthu/
-
-**GitHub:**
-https://github.com/VarshithaAvuthu
-
----
-
-## ⭐ Support
-
-If you find this project useful or interesting, consider giving the repository a ⭐.
-
-Thank you for visiting **CodeCraft by Varshitha**! ❤️
-
----
-
-### Built with 💻 by Varshitha Avuthu
-
-**Freelance Web Developer | Cloud & DevOps Learner**
-
+The generated Vite `dist/` directory can be deployed to Vercel, Netlify, Cloudflare Pages, GitHub Pages, or an AWS static hosting setup.
